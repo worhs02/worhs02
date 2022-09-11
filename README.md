@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's my first time to use Github. Nice to meet you!
 
 <!--
 **worhs02/worhs02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
