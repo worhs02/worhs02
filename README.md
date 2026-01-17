@@ -67,7 +67,7 @@
 #### [eSports VOD Curator](https://github.com/worhs02/your-repo-name)
 > AI-based VOD Analysis & Highlight Generation Platform
 
-**Tech Stack:** Spring Boot, Python (AI), AWS S3, Docker
+**Tech Stack:** Spring Boot, FASTAPI (AI), AWS S3, Docker
 <br>
 **Key Features:**
 - Automated game highlight generation using AI models
